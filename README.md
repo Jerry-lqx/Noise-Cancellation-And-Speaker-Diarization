@@ -32,7 +32,7 @@ For Independent Component Analysis:
 
 For Speaker Diarization:
   * Go to speaker diarization directory
-  * The python code takes two_person_speech.wav as the audio file
+  * The python code takes two_person_speech.wav as input audio file
   * It will separate the speakers using spectral cluster
   * It will save two speeches as "speaker_1.wav" and "speaker_2.wav" in the result directory
 
