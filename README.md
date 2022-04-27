@@ -48,4 +48,4 @@ For MFCC in python:
   * The algorithm takes "two_person_speech.wav" as input audio file
   * It will produce the MFCC of the signal and save the MFCC and melspectrogram as "mfcc.png" and "Mel-frequency spectrogram.png" in the result directory
   * The algorithm reconstructs the audio signal from MFCC
-  * The audio signal will be saved as "tow_person_speech_inverse_mfcc.wav" in the result directory
+  * The audio signal will be saved as "two_person_speech_inverse_mfcc.wav" in the result directory
