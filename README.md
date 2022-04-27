@@ -1,6 +1,6 @@
 # Noise-Cancellation-And-Speaker-Diarization
 
-This is the final demo for noise cancellation and speaker diarization system for EECS351: Digital Signal Processing at University of Michigan
+This is the final demonstration for noise cancellation and speaker diarization system for EECS351: Digital Signal Processing at University of Michigan
 
 In the recording directory, it contains five audio files that we used for testing
   * Original_professor.wav is a short audio file that only a professor is talking
