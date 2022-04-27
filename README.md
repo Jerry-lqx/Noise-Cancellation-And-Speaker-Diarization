@@ -6,7 +6,7 @@ In the recording directory, it contains five audio files that we used for testin
   * Original_professor.wav is a short audio file that only a professor is talking
   * Original_student.wav is a short audio file that only a student is talking
   * rawSpeech.wav is a one-minute speech recorded by Raj Patel in a coffe shop
-  * rawSpeechfiltered.wav is a filtered audio of rawSpeech.wav that is used for mel freqeucny cepstral coefficient (MFCC)
+  * rawSpeechfiltered.wav is a filtered audio of rawSpeech.wav that is used for mel frequency cepstral coefficient (MFCC)
   * two_person_speech.wav is a 30-seconds speech recorded by Qianxu Li and Tianwei Liu in a noisy place
 
 There are five different algorithms you can perform
