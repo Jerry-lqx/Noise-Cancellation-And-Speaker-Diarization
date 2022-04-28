@@ -106,8 +106,7 @@ mdl = rica(mixdata, 2,'NonGaussianityIndicator',ones(2,1));
 %output two signals
 z = transform(mdl, mixdata);
 
-%output mixed audio and two unmixed audio to result folder
-audiowrite('./result/Mixed_Audio.wav', mixdata, fs);
+%output two unmixed audio to result folder
 audiowrite('./result/Unmixed_Speaker1.wav', z(:,1), fs);
 audiowrite('./result/Unmixed_Speaker2.wav', z(:,2), fs);
 
